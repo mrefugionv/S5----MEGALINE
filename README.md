@@ -1,6 +1,7 @@
 # S5----MEGALINE
 ¿Qué tarifa de prepago le genera más ingresos al operador de telecomunicaciones?
-Prueba de hipotesis.
+
+Prueba de hipotesis por métodos estadísticos.
 
 ## Descripción
 Se determina qué tarifa de prepago (Surf o Ultimate) genera más ingresos para  el operador de telecomunicaciones Megaline, para que el departamento comercial pueda ajustar el presupuesto de publicidad.
